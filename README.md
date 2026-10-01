@@ -81,7 +81,7 @@ agribusiness-performance-analysis-sql/
 │   └── week3_performance_analysis.sql
 │
 ├── 📁 report/
-│   └── Week_3_Project_Report.docx
+│   └── SQL Data Analyst - Agribusiness _ Week 3.pdf
 │
 └── 📄 README.md
 ```
