@@ -94,7 +94,7 @@ Contains the SQL queries used to extract, transform, and analyse the agribusines
 
 ### 📑 Project Report
 
-`Week_3_Project_Report.docx`
+`SQL Data Analyst - Agribusiness : Week 3.docx`
 
 Contains the complete project documentation, including:
 
