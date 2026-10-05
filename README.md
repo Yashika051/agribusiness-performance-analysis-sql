@@ -126,10 +126,15 @@ The visualisations cover:
 ## 🎓 Internship Project
 
 **Program:** Yuva Intern Program
+
 **Organization:** Henry Harvin
+
 **Role:** SQL Data Analyst - Agribusiness
+
 **Project:** Week 3 - Agribusiness Performance Analysis using SQL
+
 **Prepared by:** Yashika
+
 **Course:** B.Tech Computer Science and Information Technology
 
 ---
